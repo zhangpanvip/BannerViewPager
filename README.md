@@ -93,13 +93,7 @@ It's also support to custom indicator style,just need extends BaseIndicatorView 
 | ![QQ Group](https://cdn.jsdelivr.net/gh/zhpanvip/images/project/group/qq_group.png) |  ![WeChat](https://github.com/zhpanvip/images/blob/master/project/group/wechat.png) |
 
 
-## Thanks
 
-[玩Android](https://wanandroid.com/)
-
-[finite-cover-flow](https://github.com/KoderLabs/finite-cover-flow)
-
-[zguop-banner](https://github.com/zguop/banner)
 
 License
 -------
